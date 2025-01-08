@@ -21,7 +21,7 @@ export const destinations = [
   },
   {
     title: "Mount Longonot",
-    image: "http://www.watamukenya.net/images/uploads/articoli/322_l.jpg?auto=format&q=80&w=1200",
+    image: "https://i.pinimg.com/1200x/ba/66/80/ba6680f7c46cc5d359b48631605a23ed.jpg?auto=format&q=80&w=1200",
     description: "An extinct volcano offering challenging hikes and breathtaking crater views"
   },
   {
