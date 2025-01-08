@@ -1,7 +1,7 @@
 export const experiences = [
   {
     title: "Hot Air Balloon Safari",
-    image: "https://images.unsplash.com/photo-1515696955266-4f67e13219e8?auto=format&q=80&w=1200",
+    image: "https://i.pinimg.com/736x/81/3e/6d/813e6d4226285a2859d64a2ee4147caa.jpg?auto=format&q=80&w=1200",
     description: "Float above the savannah at dawn for a breathtaking perspective"
   },
   {
@@ -11,7 +11,7 @@ export const experiences = [
   },
   {
     title: "Camp Ndunda Adventure",
-    image: "https://images.unsplash.com/photos/63Znf38gnXk",
+    image: "https://www.travela.co.ke/media/com_jbusinessdirectory/pictures/events/31/canopy_walk.jpeg?auto=format&q=80&w=1200",
     description: "Thrilling zip-lining, rock climbing, and camping adventures in Sagana"
   },
   {

@@ -16,17 +16,17 @@ export const destinations = [
   },
   {
     title: "Lake Elementaita",
-    image: "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&q=80&w=1200",
+    image: "https://www.safari-center.com/wp-content/uploads/2017/08/flamingos-1406103-639x424-e1536851652219.jpg?auto=format&q=80&w=1200",
     description: "A paradise of pink flamingos and pelicans in the Great Rift Valley"
   },
   {
     title: "Mount Longonot",
-    image: "https://images.unsplash.com/photos/KpfjuZEkN4w",
+    image: "http://www.watamukenya.net/images/uploads/articoli/322_l.jpg?auto=format&q=80&w=1200",
     description: "An extinct volcano offering challenging hikes and breathtaking crater views"
   },
   {
     title: "Village Market",
-    image: "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?auto=format&q=80&w=1200",
+    image: "https://www.upkenya.com/wp-content/uploads/2020/11/kangas-not-all-were-cotton.jpg?auto=format&q=80&w=1200",
     description: "Modern shopping and cultural experiences in Nairobi"
   }
 ];
